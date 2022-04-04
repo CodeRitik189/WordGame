@@ -1,0 +1,82 @@
+.header {
+    
+}
+.ch-worldWide {
+    margin-bottom: 16px;
+    margin-left: 32px;
+    margin-right: 32px;
+}
+.ch-worldwide-header {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 1.33;
+    margin-bottom: 16px;
+}
+.ch-country-header {
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 1.33;
+    margin-bottom: 16px;
+}
+.ch-game-heading {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1.33;
+}
+.gameContainer {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.letter-box {
+    border: 1px solid grey;
+    border-radius: 4px;
+    color: #fff;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    line-height: 30px;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    cursor: default;
+    text-transform: capitalize;
+}
+.ch-display-flex {
+    display: flex;
+}
+.ch-mr-4 {
+    margin-right: 4px;
+}
+.ch-mb-4 {
+    margin-bottom: 4px;
+}
+.ch-ml-32 {
+    margin-left: 32px;
+}
+.ch-mr-32 {
+    margin-right: 32px;
+}
+.ch-score {
+    margin-top: 24px;
+    font-size: 48px;
+    line-height: 1;
+    color: greenyellow;
+    text-align: center;
+}
+.ch-guessed-answers {
+    color: rgb(12, 100, 12);
+    font-weight: 600;
+    font-size: 18px;
+}
+.ch-level-label {
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 1;
+}
+.ch-level {
+    color: red;
+}
+.ch-ml-4 {
+    margin-left: 4px;
+}
